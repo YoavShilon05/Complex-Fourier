@@ -15,7 +15,7 @@ def Main(filename):
 
     FOCUS = False
     CIRCLES = True
-    GAMING = True
+    GAMING = False
 
     w, h = 1000, 1000
     win = pg.display.set_mode((w, h))
