@@ -1,8 +1,8 @@
 # Complex-Fourier
-An implementation of Fourier Transform on any svg file
+An implementation of [Fourier Transform](https://en.wikipedia.org/wiki/Fourier_transform) on any svg file
 
-The Idea for this project came together after watching a video by 3blue1brown about the fourier transform.
-This project is an implementation of the demos showen in this video.
+The Idea for this project came together after watching [a video by 3blue1brown](https://www.youtube.com/watch?v=r6sGWTCMz2k) about the fourier transform.
+This project is an implementation of the demos shown in this video, using nothing but the information featured on it.
 
 # Features
 the code can generate a set of circles to draw any vector path (stored as an SVG file).
